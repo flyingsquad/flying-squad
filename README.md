@@ -81,3 +81,7 @@ Once you have installed the Flying Squad module you need to enable the Flying Sq
 * Flying Squad entries will be added to the Scenes, Actors, Items, Journal and Playlists tabs of the sidebar.
 * Open the Journal tab in the sidebar and click the Flying Squad folder, then click The Flying Squad journal entry.
 * Install the adventures, starting with The Case of the Butchered Butcher, as needed.
+
+# Example Map
+
+![Example Map](maps/mansion-1.webp)
