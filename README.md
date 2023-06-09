@@ -24,8 +24,8 @@ The module includes:
 * Eight example officers.
 * Ten interlinked cases to solve, including full case descriptions, NPCs, magic items and more than two dozen maps.
 * Seven new character backgrounds suitable for law enforcement.
-* Dozens of character, NPC and monster tokens.
-* Music for some scenes, includes other orchestral cues.
+* Hundreds of character, NPC and monster tokens.
+* Music for some scenes, other mood-setting orchestral cues included.
 
 Requirements: Foundry Version 10.291 or greater and DnD5e - Fifth Edition System 2.1.5 or greater.
 
