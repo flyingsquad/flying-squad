@@ -2,7 +2,7 @@
 
 **WANTED:**
 
-WIZARDS, WARLOCKS, SORCERERS, CLERICS, DRUIDS, MONKS, BARDS, PALADINS, FIGHTERS, RANGERS and, lamentably, ROGUES of *impeccable* character to assist the city watch with the investigation of crimes.
+WIZARDS, WARLOCKS, SORCERERS, CLERICS, DRUIDS, MONKS, BARDS, PALADINS, FIGHTERS, RANGERS and, lamentably, ROGUES of *impeccable* character to assist the City Watch with the investigation of crimes.
 
 Apply to Capt. Larkspur at the Palace
 
@@ -10,7 +10,7 @@ Apply to Capt. Larkspur at the Palace
 
 # A Free Adventure Module for D&D 5e and Foundry VTT
 
-The Flying Squad is an elite unit of the city watch. It is recruiting experienced
+The Flying Squad is an elite unit of the City Watch. It is recruiting experienced
 (level 5) officers. The adventures use standard races and monsters, and can be used in any standard D&D world, such as Faerûn in the Forgotten Realms.
 
 All the adventures are contained in the Foundry Journal, with inline macro shortcuts to open scenes, stop and start audio, roll dice, display images to players, open character sheets, etc.
