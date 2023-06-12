@@ -26,8 +26,8 @@
         "minimum": 10,
         "verified": 11
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://github.com/flyingsquad/flying-squad",
     "manifest": "https://raw.githubusercontent.com/flyingsquad/flying-squad/main/module.json",
-    "download": "https://github.com/flyingsquad/flying-squad/archive/refs/tags/v1.0.1.zip"
+    "download": "https://github.com/flyingsquad/flying-squad/archive/refs/tags/v1.0.2.zip"
 }
