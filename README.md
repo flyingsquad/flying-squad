@@ -13,6 +13,8 @@ Apply to Capt. Larkspur at the Palace
 The Flying Squad is an elite unit of the City Watch. It is recruiting experienced
 (level 5) officers. The adventures use standard races and monsters, and can be used in any standard D&D world, such as Faerûn in the Forgotten Realms.
 
+Think **CSI: Waterdeep** or **Law & Order: Necromantic Unit**.
+
 All the adventures are contained in the Foundry Journal, with inline macro shortcuts to open scenes, stop and start audio, roll dice, display images to players, open character sheets, etc.
 
 This module imports a series of adventures from the Compendium. You can import them one at a time as needed to save space and loading times, or all at once.
