@@ -19,6 +19,8 @@ All the adventures are contained in the Foundry Journal, with inline macro short
 
 This module imports a series of adventures from the Compendium. You can import them one at a time as needed to save space and loading times, or all at once.
 
+Note: one adventure contains mature themes, though nothing explicit.
+
 The module includes:
 
 * The Flying Squad backgrounder, including maps of the Flying Squad station,
