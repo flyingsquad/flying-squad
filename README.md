@@ -35,7 +35,7 @@ Requirements: Foundry Version 10.291 or greater and DnD5e - Fifth Edition System
 
 ## Brief Installation Instructions for Foundry Experts
 
-* Install the Flying Squad module from https://raw.githubusercontent.com/flyingsquad/flying-squad/main/module.json
+* Search for the "Flying Squad" package in the Install Module window, or install the Flying Squad module from https://raw.githubusercontent.com/flyingsquad/flying-squad/main/module.json
 * Enable the Flying Squad module in your world.
 * Import Adventures from the Flying Squad Adventure Compendium.
 * Open the Flying Squad Journal entry.
@@ -47,13 +47,9 @@ If the above instructions are a little too brief, these are more detailed.
 ### Install the Flying Squad Module
 
 * Go to the Configuration and Setup page for your Foundry server.
-* Click Add-on Modules.
-* Click the Install Module button at the bottom left.
-* Copy the manifest URL below and paste it in the Manifest URL edit box at the bottom of the Install Module dialog:
-
-    https://raw.githubusercontent.com/flyingsquad/flying-squad/main/module.json
-
-* Click the Install button at the bottom right of the Install Module dialog.
+* Click Add-on Modules to open the Install Module window.
+* Enter "Flying Squad" in the Filter Packages field of the Install Module window.
+* Click the Install button at the bottom right of the Flying Squad entry.
 * Foundry will show a progress bar as it downloads and installs the module.
 * Click the Close button in the upper right corner of the Install Module dialog.
 
